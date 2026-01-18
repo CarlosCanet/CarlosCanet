@@ -8,14 +8,11 @@ Security-conscious developer with hands-on **OWASP Top 10** experience.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlosca.net-orange?style=for-the-badge)](https://portfolio.carlosca.net) [![Email](https://img.shields.io/badge/Email-carlos@carlosca.net-EA4335?style=for-the-badge&logoColor=white)](mailto:carlos@carlosca.net) [![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosCanet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carlos-canet-espinosa)
 
----
-
 ## Tech Stack
 
 <!-- ![Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,express,nodejs,tailwind,mongodb,postgresql,prisma,git,vitest,stripe) -->
 ![Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,typescript,express,nodejs,tailwind,mongodb,postgresql,prisma,git,vitest,stripe&theme=dark)
 
----
 ## Why am I unique?
 
 - **20+ years wearing a hat** →  In fact, several different hats (sometimes even at the same time)🤠.
